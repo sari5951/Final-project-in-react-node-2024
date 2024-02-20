@@ -1,0 +1,57 @@
+#ImgOrder1{
+    display: flex;
+    margin-top: 5%;
+    
+}
+#ImgOrder2{
+    display: flex;
+    margin-top: -2%;
+
+}
+.circleOrder{
+ 
+   justify-content: space-between;
+   transition :opacity 0.2s ease-in-out;
+
+   
+
+    
+
+}
+.circleOrder:hover{
+opacity: 0.5;
+}
+
+
+#h2{
+    color: brown;
+    size: 50%;
+}
+
+
+/* העיצוב של הטופס: */
+#Form { 
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  .Formbranch {
+    margin-right: 2%;
+    width: 100%; 
+    height: 50px;
+    background: #f1f1f1;
+    color: #121212;
+    border-radius: 0;
+    border: none;
+    border-right: 4px solid #d1ba8b;
+    margin-bottom: 20px;
+    font-size: 90%;
+    padding-right: 15px;
+    box-shadow: #d1ba8b;
+  }
+  
+  #ok {
+    background-color: #d1ba8b;
+  }
+  

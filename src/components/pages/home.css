@@ -1,0 +1,38 @@
+#HomeImg{
+    width: 100%;
+    margin-top: 4%;
+
+
+ 
+}
+#TextHome{
+    color: rgb(20, 20, 20);
+
+
+}
+#HomePage1{
+    display: flex;
+    height: 250px;
+    justify-content: center;
+   
+}
+#HomePage2{
+    display: flex;
+    /* width: 10px; */
+    height: 250px;
+    justify-content: center;
+    margin-top: 7%;
+}
+#h1{
+    color: #FFFFFF;
+    font-family: "stanga", Sans-serif;
+    font-size: 104px;
+    font-weight: 600;
+    line-height: 0.8em;
+    letter-spacing: -1.3px;
+    font-size: 42px;
+    position: 'absolute';
+     top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+}
